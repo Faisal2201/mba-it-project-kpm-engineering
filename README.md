@@ -2,45 +2,38 @@ This project explores the implementation of cloud-based infrastructure in busine
 
 **Implementation of Cloud-Based Infrastructure in Business Operations: A Professional Study by an IT Engineer**
 
+📘 Project Overview
 
+This academic project was completed as part of my MBA in Information Technology at D.Y. Patil University.
+It explores how cloud-based infrastructure can improve business operations through scalability, security, and cost optimization.
 
-This repository showcases my MBA in Information Technology project (D.Y. Patil Institute of Technology, 2025).
+The study draws from professional insights and practical experience gained while working in the IT industry, particularly focusing on the implementation and management of cloud systems within an engineering organization.
 
-The study explores how cloud-based infrastructure improves business operations, scalability, and system efficiency within engineering organisations.
+🎯 Objectives
 
+To understand cloud infrastructure adoption in real-world business environments.
 
+To identify key benefits such as flexibility, performance, and operational efficiency.
 
-**Company Case Study:** KPM Engineering
+To analyze challenges and provide strategies for smoother cloud migration.
 
-**Focus Areas:**
+🧩 Project Deliverables
 
+📄 MBA Project Report (PDF) - Without Certificates
 
+🎞️ Final Presentation (PPTX)
 
-* Cloud Infrastructure Implementation
+🏫 Academic Association
 
+University: D.Y. Patil University
 
+Program: Master of Business Administration (Information Technology)
 
-* IT System Modernisation
+💡 Note
 
+This project is intended purely for academic and professional learning purposes.
+It does not disclose any confidential or proprietary information related to any organization.
 
-
-* Business Efficiency through Cloud Adoption
-
-
-
-* Real-world Data Collection \& Analysis
-
-
-
-**Files Included:**
-
-
-
-\* MBA\_Project\_Cloud-Based\_Infrastructure.pdf (without certificates)
-
-
-
-\* Final\_Presentation\_Slides.pptx
 
 
 
