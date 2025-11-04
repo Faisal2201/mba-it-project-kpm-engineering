@@ -34,9 +34,10 @@ The study explores how cloud-based infrastructure improves business operations, 
 
 
 
-\* MBA\_Project\_Cloud-Based\_Infrastructure.pdf
+\* MBA\_Project\_Cloud-Based\_Infrastructure.pdf (without certificates)
 
 
 
 \* Final\_Presentation\_Slides.pptx
+
 
